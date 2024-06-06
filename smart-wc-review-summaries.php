@@ -2,7 +2,7 @@
 /*
 Plugin Name: Smart WC Review Summaries
 Description: Enhance your WooCommerce store by using advanced AI technology to summarize product reviews.
-Author: Federico Ruffa
+Author: WeDev
 */
 
 require 'vendor/autoload.php';

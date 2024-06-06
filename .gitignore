@@ -1,0 +1,26 @@
+# .gitignore
+/node_modules/
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+.pem
+
+# Ignore files related to IDEs and code editors
+/.idea/
+*.sublime-project
+*.sublime-workspace
+*.vscode/
+
+# Ignore OS generated files
+ehthumbs.db
+Desktop.ini
+
+# Ignore npm debug logs
+npm-debug.log
+
+# Ignore WordPress configuration file
+wp-config.php
+
+# Ignore everything in the WordPress uploads directory
+/wp-content/uploads/

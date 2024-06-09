@@ -7,4 +7,5 @@ $baseDir = dirname($vendorDir);
 
 return array(
     'WpOrg\\Requests\\' => array($vendorDir . '/rmccue/requests/src'),
+    'SWCRS\\' => array($baseDir . '/src'),
 );

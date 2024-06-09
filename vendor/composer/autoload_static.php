@@ -15,12 +15,20 @@ class ComposerStaticInit7a30ab444fb187d078c3347c5967a1ad
         array (
             'WpOrg\\Requests\\' => 15,
         ),
+        'S' => 
+        array (
+            'SWCRS\\' => 6,
+        ),
     );
 
     public static $prefixDirsPsr4 = array (
         'WpOrg\\Requests\\' => 
         array (
             0 => __DIR__ . '/..' . '/rmccue/requests/src',
+        ),
+        'SWCRS\\' => 
+        array (
+            0 => __DIR__ . '/../..' . '/src',
         ),
     );
 
